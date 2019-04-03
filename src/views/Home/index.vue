@@ -3,7 +3,7 @@
     <a-layout-sider collapsible v-model="collapsed" class="sider">
       <!--<div class="sider-logo">自己起名字</div>-->
       <a-menu theme="dark" mode="inline">
-        <a-menu-item v-for="item in siderMenuList" :key="item.key">
+        <a-menu-item v-for="item in siderMenuList" :key="item.key" @click="routerChange(item)">
           <a-icon :type="item.icon" />
           <span>{{ item.name }}</span>
         </a-menu-item>
@@ -41,6 +41,10 @@
       }
     },
     methods: {
+      // 切换路由
+      routerChange (item) {
+        this.$router.push({ path: item.path })
+      },
       logout () {
         const params = {
           uid: sessionStorage.getItem('uid')
@@ -57,26 +61,13 @@
     },
     created () {
       this.userName = sessionStorage.getItem('userName')
+      // 添加侧边栏菜单
       this.siderMenuList = [
         {
           key: 0,
           icon: 'plus',
-          name: '测试'
-        },
-        {
-          key: 1,
-          icon: 'file-text',
-          name: '试卷管理'
-        },
-        {
-          key: 2,
-          icon: 'database',
-          name: '题库管理'
-        },
-        {
-          key: 3,
-          icon: 'project',
-          name: '考试分析'
+          name: '菜单示范',
+          path: '/home/example'
         }
       ]
     }

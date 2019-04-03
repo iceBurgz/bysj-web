@@ -4,7 +4,7 @@ import Router from 'vue-router'
 // 页面
 import Login from '@/views/Login/index'
 import Home from '@/views/Home/index'
-import Test from '@/views/Test/index'
+import Example from '@/views/Example/example'
 
 Vue.use(Router)
 
@@ -20,9 +20,9 @@ const router = new Router({
       component: Home,
       children: [
         {
-          path: 'test',
-          name: 'test',
-          component: Test
+          path: 'example',
+          name: 'Example',
+          component: Example
         }
       ]
     },

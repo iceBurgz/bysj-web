@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class="title">欢迎使用诺亚考试系统</div>
+    <div class="title">毕业设计</div>
     <a-form
       id="login"
       :form="form"
@@ -52,13 +52,11 @@
   import crypto from 'crypto'
 
   export default {
-    name: "index",
     data () {
       return {}
     },
     methods: {
       login (e) {
-        this.$router.push({ path: '/home/test' })
         e.preventDefault();
         this.form.validateFields ((err, values) => {
           if (!err) {
