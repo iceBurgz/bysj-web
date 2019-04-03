@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ea288f1-e522-4338-b398-775dcb9c7837" name="Default Changelist" comment="" />
+    <list default="true" id="4ea288f1-e522-4338-b398-775dcb9c7837" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/18d600a9ae2eb91dc0328ff5b31bed6c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1b88550434962e413bf2cd020406e02f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/279d158bf78d18925cfbdc5f9b40569a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3a8f2beb892dc7f365b65d7dbab7dd36.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4964940e01e806ea1c5f91392d4a2e19.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6a1159cac2c6b3b14e4284d24204cf2b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/702b4c3ff810613bdab42b9a0c24c33e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/97080c6a427c5d5abff21de36665f9c9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e247f298eefc13faad51bc46cd204dca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/2024bcc65d76c7e9147464d724a2d9292e129817.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/25f78646ad93f80a985d39028643e5d4c3824e65.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/5240ce4905a027b44d50b9551e6d7da3b6bfae72.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/9144db6f7af5bd2a99df56ea19471c3a4291c55f.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/9f73c08b3334fe498c63eb350fffb733b5ede16c.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/b15ebe3b450cd01105fd65629abf94a6ee4e16c0.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/d62cda80e226ab6176ee8ec14315794e3cd90af2.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/d76aa8d40acf0ae8cd4a358eb35c932a619b3115.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/fabfd026b9e3d0a9b567f2e5f30d5cd00b993db1.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/04f05f476cc3fcce0a36d148dcecec0f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/241ce24a6da7cdd21a4fd8d62de2e099.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/267445c41e2201e5c64b7da962a3e467.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2ba245a948d7563a798d5d88c686d1e5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3d0698ab1e690e5d659254d80f038b9c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/4dcb1c59f01f5484854588abdca5848e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/547fa78b52bae713563c6aa92cc24379.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6262fe1ba45c5e0d55ad407b027c76b8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/642149ea5e329d0f9f9894542b47ecc3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/697ab2fad791e82ef73fb4e2484161fc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/816d18501f2a9365dca3462c132f9c14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/8692f115de4ed01e074092961fe0a1b9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/aa4075f67b5760cd2a357c97f189f781.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/aeb77c8fb9a20b84f3823fd5e14e91ee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b43cac8012c84daf77c909f000643091.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d278ffb9956e36b9a2e86ba143107c47.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/dd53bc7f334dc9569099ce8478642d6c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e094669659816299c848b41f95e9fdba.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ead9d84169554f379cce37b29cb92f36.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,7 +53,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="220">
+                <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -97,6 +151,7 @@
         <option value="$PROJECT_DIR$/src/router/index.js" />
         <option value="$PROJECT_DIR$/src/views/Login/index.vue" />
         <option value="$PROJECT_DIR$/src/views/Home/index.vue" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -107,22 +162,22 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="bysj-web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bysj-web" type="462c0819:PsiDirectoryNode" />
+              <item name="bysj-web" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -210,14 +265,16 @@
       <workItem from="1554197873908" duration="371000" />
       <workItem from="1554201935418" duration="2635000" />
       <workItem from="1554274792533" duration="1141000" />
+      <workItem from="1554276071677" duration="622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160203000" />
+    <option name="totallyTimeSpent" value="160825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2048" height="1152" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27528366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -294,9 +351,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.eslintrc" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/mock/buildUser.js" />
     <entry file="file://$PROJECT_DIR$/mock/index.js" />
     <entry file="file://$PROJECT_DIR$/src/views/Home/components/Header.vue">
@@ -324,14 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-126" />
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -412,6 +459,16 @@
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="220">
+            <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
